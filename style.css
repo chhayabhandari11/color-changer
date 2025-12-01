@@ -1,0 +1,38 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 100px;
+    font-family: Arial, sans-serif;
+
+}
+
+.buttons{
+    
+    margin-top: 30px;
+}
+.btn{
+    padding-left: 70px;
+    border-radius: 6px;
+    justify-content: center;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    
+}
+#red{
+    background-color: red;
+    justify-content: center;
+    
+}
+#blue
+{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#grey{
+    background-color: grey;
+}
